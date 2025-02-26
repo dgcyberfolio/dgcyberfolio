@@ -25,7 +25,6 @@
     PS C:\> .\STIG-ID-WN10-SO-000030.ps1 
 #>
 
-
 # Define the registry path and value
 $regPath = "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa"
 $valueName = "SCENoApplyLegacyAuditPolicy"
