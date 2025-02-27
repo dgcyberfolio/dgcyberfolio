@@ -25,7 +25,6 @@
     PS C:\> .\STIG-ID-WN10-SO-000055.ps1 
 #>
 
-# YOUR CODE GOES HERE
 # Define the registry path and the value name
 $registryPath = "HKLM:\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters"
 $valueName = "MaximumPasswordAge"
