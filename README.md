@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and tackling complex challenges. From vulnera
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/dgcyberfolio/Vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/dgcyberfolio/programmatic-vulnerability-remediations/tree/main)**
+- **[STIGS and Remediations](https://github.com/dgcyberfolio/dgcyberfolio/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
