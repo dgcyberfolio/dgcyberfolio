@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and tackling complex challenges. From vulnera
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/dgcyberfolio/threat-hunting-scenario-tor)**
-
+- **[Threat Hunting CTF (RDP Password Spray)](https://github.com/dgcyberfolio/Threat-Hunting-CTF-RDP-Password-Spray/tree/main)**
 <hr/>
 
 ## 🤳 Connect With Me
