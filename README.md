@@ -5,7 +5,7 @@
 ![Hunts](https://img.shields.io/badge/Threat_Hunts-2+-blue?style=flat-square)
 ![Queries](https://img.shields.io/badge/KQL_Queries-10+-cyan?style=flat-square)
 ![Labs](https://img.shields.io/badge/Security_Labs-2-green?style=flat-square)
-![Certifications](https://img.shields.io/badge/Certifications-3-orange?style=flat-square)
+![Certifications](https://img.shields.io/badge/Certifications-4-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Seeking_SOC_Role-red?style=flat-square)
 
 I'm passionate about cybersecurity and tackling complex challenges. From vulnerability management to threat detection, these projects allow me to dive deep into the landscape of cybersecurity.
