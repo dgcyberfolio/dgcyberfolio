@@ -14,21 +14,7 @@ This repository also serves as my **SOC Community Threat Hunt Portfolio** — a 
 
 ---
 
-## ⚠️ Vulnerability Management
-
-- **[Vulnerability Management Program Implementation](https://github.com/dgcyberfolio/Vulnerability-management-program)**
-- **[STIGS and Remediations](https://github.com/dgcyberfolio/dgcyberfolio/tree/main/STIGS)**
-
----
-
-## 🚨 Threat Hunting & Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/dgcyberfolio/threat-hunting-scenario-tor)**
-- **[Threat Hunting CTF (RDP Password Spray)](https://github.com/dgcyberfolio/Threat-Hunting-CTF-RDP-Password-Spray/tree/main)**
-
----
-
-## 📂 SOC Community Threat Hunt Portfolio
+## 📂 SOC Investigation/Threat Hunt Portfolio
 
 | Directory | Contents |
 |-----------|----------|
@@ -60,6 +46,12 @@ All investigation reports:
 - Demonstrate the ability to take feedback, improve, and document investigations
 
 ---
+## ⚠️ Vulnerability Management
+
+- **[Vulnerability Management Program Implementation](https://github.com/dgcyberfolio/Vulnerability-management-program)**
+- **[STIGS and Remediations](https://github.com/dgcyberfolio/dgcyberfolio/tree/main/STIGS)**
+
+---
 
 ## 📑 KQL Template
 
@@ -85,10 +77,12 @@ Each KQL entry includes:
 
 ## 📜 Certifications
 
-**CompTIA Security+** • **Network+** • **A+**
+**CompTIA Security+** • **Network+** • **A+** • **Microsoft AZ900** 
 
 ---
+## 🔗 Projects
 
+---
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gilmore1/)
