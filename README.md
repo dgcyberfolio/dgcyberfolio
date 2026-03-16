@@ -1,4 +1,12 @@
-# <a href="https://www.linkedin.com/in/david-gilmore1/">David Gilmore</a>'s Cybersecurity Portfolio 🔐
+# <a href="https://www.linkedin.com/in/david-gilmore1/">David Gilmore</a> — Cybersecurity Portfolio 🔐
+
+**SOC Analyst | Threat Hunter | Security Operations**
+
+![Hunts](https://img.shields.io/badge/Threat_Hunts-2+-blue?style=flat-square)
+![Queries](https://img.shields.io/badge/KQL_Queries-10+-cyan?style=flat-square)
+![Labs](https://img.shields.io/badge/Security_Labs-2-green?style=flat-square)
+![Certifications](https://img.shields.io/badge/Certifications-3-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Seeking_SOC_Role-red?style=flat-square)
 
 I'm passionate about cybersecurity and tackling complex challenges. From vulnerability management to threat detection, these projects allow me to dive deep into the landscape of cybersecurity.
 
@@ -24,9 +32,9 @@ This repository also serves as my **SOC Community Threat Hunt Portfolio** — a 
 
 | Directory | Contents |
 |-----------|----------|
-| `/hunts/` | Writeups of completed hunts and mini-challenges |
-| `/investigations/` | Case reports with screenshots and supporting evidence |
-| `/kql/` | Reusable KQL queries and detection logic |
+| [`/hunts/`](./hunts/) | Writeups of completed hunts and mini-challenges |
+| [`/investigations/`](./investigations/) | Case reports with screenshots and supporting evidence |
+| [`/kql/`](./kql/) | Reusable KQL queries and detection logic |
 
 ---
 
@@ -63,17 +71,26 @@ Each KQL entry includes:
 
 ---
 
-## 🎯 Skills Demonstrated
+## 🧰 Technical Skills
 
-| Area | Focus |
-|------|-------|
-| 🔍 Threat Hunting | Proactive searches for adversary behavior |
-| 💻 KQL Development | Detection logic for Microsoft Sentinel / Defender |
-| 📝 SOC Triage | Investigation workflow and escalation decisions |
-| 🗂️ MITRE ATT&CK | Technique mapping and coverage tracking |
+| **Area** | **Technologies** |
+|----------|------------------|
+| **SIEM & Log Analysis** | ![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) NIST 800-61 • MITRE ATT&CK |
+| **Query Languages** | ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=azure-devops&logoColor=white) ![Splunk](https://img.shields.io/badge/SPL-000000?style=flat-square&logo=splunk&logoColor=white) |
+| **Endpoint & Identity** | ![Defender](https://img.shields.io/badge/Defender_for_Endpoint-00A4EF?style=flat-square&logo=microsoft&logoColor=white) ![AD](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white) |
+| **Vulnerability Management** | ![Tenable](https://img.shields.io/badge/Tenable_Nessus-00B388?style=flat-square&logo=tenable&logoColor=white) DISA STIGs |
+| **Infrastructure** | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 
 ---
 
-## 🤳 Connect With Me
+## 📜 Certifications
+
+**CompTIA Security+** • **Network+** • **A+**
+
+---
+
+## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gilmore1/)
+
+**Seeking:** SOC Analyst, Blue Team, or Junior Security Engineer roles
