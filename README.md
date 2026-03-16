@@ -34,7 +34,7 @@ This repository also serves as my **SOC Community Threat Hunt Portfolio** — a 
 |-----------|----------|
 | [`/hunts/`](./hunts/) | Writeups of completed hunts and mini-challenges |
 | [`/investigations/`](./investigations/) | Case reports with screenshots and supporting evidence |
-| [`/kql/`](./kql/) | Reusable KQL queries and detection logic |
+| [`/kql/`](https://github.com/dgcyberfolio/kql/blob/main/README.md) | Reusable KQL queries and detection logic |
 
 ---
 
