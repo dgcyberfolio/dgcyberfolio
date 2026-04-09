@@ -82,9 +82,10 @@ Each KQL entry includes:
 ---
 ## 🔗 Projects
 | Project | Description | Link |
-|---|---|---|
+| --- | --- | --- |
 | Enterprise-Projects | Collection of enterprise security lab projects | [Enterprise-Projects](https://github.com/dgcyberfolio/Enterprise-Projects/tree/main) |
 | Splunk 101 Capstone | SOC incident investigation using Splunk SIEM | [View Project](https://github.com/dgcyberfolio/Enterprise-Projects/blob/main/Splunk%20Capstone%20Project.md) |
+| Active Directory Attack Lab | Multi-VM AD environment with brute force attack detection and Atomic Red Team simulation | [View Project](https://github.com/dgcyberfolio/Enterprise-Projects/blob/main/Active-Directory-Attack-Lab.md) |
 
 ---
 ## 🔗 Connect
